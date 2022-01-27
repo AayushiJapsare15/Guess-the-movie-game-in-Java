@@ -1,2 +1,5 @@
 # Guess-the-movie-game-in-Java
-In this game you have to guess name of randomly chosen movie
+* The computer will choose a movie randomly from a collection and you'll have 5 lives (tries) to guess the movie name.
+
+* Length of movie will shown by means of  "_".
+
